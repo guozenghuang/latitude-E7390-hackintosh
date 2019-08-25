@@ -6,6 +6,7 @@
 * GPU：UHD620
 * 分辨率：1920X1080
 * 接口：type-C,HDMI,USBX2,TF读卡器,耳机孔,千兆网口(I219),无线网卡(DW1820A)
+* 硬盘：Samsung 970evo nvme 500G
 
 ## macOS:10.14.6 基于小兵镜像
 
