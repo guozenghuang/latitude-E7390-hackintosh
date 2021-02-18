@@ -1,8 +1,8 @@
-# latitude-E7390-macOS
+# Latitude-E7390-macOS
 
 EFI for MacOS Big Sur, using OpenCore 0.6.5
 
-## 配置：Dell latitude 7390
+## 配置：Dell Latitude 7390
 
 - CPU: kaby-lake-R i5-8250u
 - GPU：UHD620
@@ -14,7 +14,7 @@ EFI for MacOS Big Sur, using OpenCore 0.6.5
 - GPU
 - HDMI
 - USB
-- 声卡ALC256（使用combojack）
+- 声卡ALC256
 - 耳机
 - 网卡
 - CPU变频
@@ -51,9 +51,7 @@ EFI for MacOS Big Sur, using OpenCore 0.6.5
 
 ![handoff](./asset/handoff.png)
 
-
-
-![970EVO500G](./asset/ALC256.png)
+![ALC256](./asset/ALC256.png)
 
 ![970EVO500G](./asset/970EVO500G.png)
 
